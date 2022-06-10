@@ -2,7 +2,7 @@ import React,{Component} from "react"
 class Hello extends Component{
     render() {
         return(
-            <div>hello,react</div>
+            <div>hello,react时代</div>
         )
     }
 }
